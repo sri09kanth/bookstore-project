@@ -1,0 +1,29 @@
+version: "3.7"
+
+services:
+  database:
+    image: mysql:5.7
+    environment:
+      MYSQL_DATABASE: bookstore_db
+      MYSQL_ROOT_PASSWORD: admin1234
+      MYSQL_USER: nihat
+      MYSQL_PASSWORD: nht123
+    networks:
+      - bookstore
+  myapp:
+    build: .
+    restart: always
+    depends_on:
+      - database
+    ports:
+      - "80:80"
+    networks:
+      - bookstore
+
+networks:
+  bookstore:
+    driver: bridge
+
+
+
+
