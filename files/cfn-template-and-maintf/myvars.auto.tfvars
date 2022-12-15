@@ -1,1 +1,1 @@
-key = "firstkey"
+key = "" # Your key is written here !! (example: nihatkey)
