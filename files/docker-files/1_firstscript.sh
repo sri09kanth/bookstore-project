@@ -9,7 +9,6 @@ echo
 echo
 
 # Memory Utilizatio
-echo "Memory Utilization"
 free -m
 echo
 
