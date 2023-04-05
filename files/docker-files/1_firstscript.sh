@@ -7,7 +7,6 @@ echo
 
 #checking systemt uptime
 echo "#####################################"
-uptime
 echo
 
 # Memory Utilization
