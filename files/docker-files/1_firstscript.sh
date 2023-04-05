@@ -10,7 +10,6 @@ echo
 
 free -m
 echo
-
 # Disk Utilization
 echo "Disk Utilization"
 df -h
