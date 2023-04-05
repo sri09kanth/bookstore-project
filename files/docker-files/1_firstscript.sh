@@ -9,7 +9,7 @@ echo
 echo 
 echo
 
-# Memory Utilization
+# Memory Utilizatio
 echo "#####################################"
 echo "Memory Utilization"
 free -m
