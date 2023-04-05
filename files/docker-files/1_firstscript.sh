@@ -2,7 +2,6 @@
 
 ### This script prints system info ###
 
-echo "Welcome to bash script."
 echo
 
 echo 
