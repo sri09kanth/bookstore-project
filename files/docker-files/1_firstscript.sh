@@ -6,7 +6,7 @@ echo "Welcome to bash script."
 echo
 
 echo 
-echo
+
 
 free -m
 echo
