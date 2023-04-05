@@ -8,4 +8,4 @@ echo
 
 
 
-echo "Disk Utilization"
+echo "Disk Uilization"
