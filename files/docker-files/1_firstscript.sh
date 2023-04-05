@@ -8,7 +8,6 @@ echo
 echo 
 echo
 
-# Memory Utilizatio
 free -m
 echo
 
