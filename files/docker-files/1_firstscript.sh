@@ -6,7 +6,7 @@ echo "Welcome to bash script."
 echo
 
 #checking systemt uptime
-echo "#####################################"
+echo 
 echo
 
 # Memory Utilization
