@@ -9,4 +9,3 @@ echo
 
 
 echo "Disk Utilization"
-df -h
